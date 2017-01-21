@@ -1,0 +1,12 @@
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.exe.config
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.pdb
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.pdb
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.csprojResolveAssemblyReference.cache
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.exe.config
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\bin\Debug\MySkuNewsCollector.pdb
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.csprojResolveAssemblyReference.cache
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\MySkuNewsCollector\obj\Debug\MySkuNewsCollector.pdb

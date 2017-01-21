@@ -1,0 +1,14 @@
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe.config
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.pdb
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.pdb
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe.CodeAnalysisLog.xml
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe.lastcodeanalysissucceeded
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe.config
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\bin\Debug\RSSAgregator.pdb
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.csprojResolveAssemblyReference.cache
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\RSSAgregator\obj\Debug\RSSAgregator.pdb

@@ -1,0 +1,4 @@
+MySKYNews.MainActivity, MySKYNews;md53288c517fb0004f5569a6fb65bfe9d12.MainActivity
+MySKYNews.MainActivity, MySKYNews, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53288c517fb0004f5569a6fb65bfe9d12.MainActivity
+MySKYNews.MainActivity;md53288c517fb0004f5569a6fb65bfe9d12.MainActivity
+myskynews.MainActivity;md53288c517fb0004f5569a6fb65bfe9d12.MainActivity

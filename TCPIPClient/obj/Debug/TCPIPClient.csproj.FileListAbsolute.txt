@@ -1,0 +1,12 @@
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.pdb
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Oleg\Desktop\CppLAB\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.pdb
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\bin\Debug\TCPIPClient.pdb
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.csprojResolveAssemblyReference.cache
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Олег Мирский\Desktop\RSSAgregator\TCPIPClient\obj\Debug\TCPIPClient.pdb
